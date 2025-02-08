@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Save Contacts</string>
+    <string name="contact_name">Enter contact name</string>
+    <string name="contact_number"> Enter contact number</string>
+    <string name="sim1">sim1</string>
+    <string name="sim2">sim2</string>
+    <string name="google">google</string>
+    <string name="whatsapp">whatsapp</string>
+    <string name="phone">phone</string>
+</resources>
